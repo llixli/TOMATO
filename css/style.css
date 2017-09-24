@@ -1,0 +1,44 @@
+html * {
+	font-family: Courier New, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+}
+/*
+#tomatoProgress {
+	width: 100%;
+	background-color: #a3c2c2;
+}
+
+#tomatoBar {
+	width: 1%;
+	height: 30px;
+	background-color: #669900;
+}
+*/
+#outer {
+	width: 100%;
+	text-align: center;
+	margin: 0px;
+}
+
+.inner {
+	display: inline-block;
+	font-weight: bold;
+	color: black;
+	padding: 5px;
+}
+
+#reverseTimer {
+		display: block;
+		text-align: center;
+
+		font-size: 400%;
+		font-weight: bold;
+		color: black;
+}
+
+body {
+	margin: 0px;
+}
+
+#main {
+	padding: 15%;
+}
